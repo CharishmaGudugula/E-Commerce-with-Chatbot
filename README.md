@@ -87,5 +87,6 @@ Run the application:
 python app.py
 Access the platform:
 
-Open your browser and navigate to http://127.0.0.1:5000.
+Enter localhost:5000 in the browser.
+
 
